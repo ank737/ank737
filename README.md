@@ -11,7 +11,7 @@ I’ve built projects, participated in hackathons, and love turning ideas into r
 
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ankushrajpatna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushraj737@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ankush-it) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushraj737@gmail.com) 
 
 # 💻 Tech Stack: <img align="center" height="15" src="https://media.tenor.com/pUQYKXcdmWoAAAAm/fgfg.webp"  />
 
